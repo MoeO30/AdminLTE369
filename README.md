@@ -3,7 +3,7 @@
 3.-lo que esta en carpeta node_modules hay que copiarlo en su carpeta de node_modules
 
 o instalar via npm con el codigo sig
-npm install admin-lte --save
+npm install admin-lte --save, este va a crear la carpeta admin-lte dentro de node_modules
 
 
 
