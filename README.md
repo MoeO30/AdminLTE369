@@ -1,3 +1,13 @@
+1.- crear el proyecto ng new AdminLTE2
+2.- Copiar las carpetas en la ruta creada
+3.-lo que esta en carpeta node_modules hay que copiarlo en su carpeta de node_modules
+
+o instalar via npm con el codigo sig
+npm install admin-lte --save
+
+
+
+
 # AdminLTE2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
